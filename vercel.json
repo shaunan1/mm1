@@ -14,7 +14,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "http://http://uasapi",
+        "APP_URL": "https://mm1-shaunan1s-projects.vercel.app/",
         "APP_KEY": "base64:flS4dpBBoLw777Up7yqenPJd/mV1CERpdUuDd1M50n0=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
